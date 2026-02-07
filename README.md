@@ -36,7 +36,7 @@ This project implements a chatbot-based ticketing system for the Chhatrapati Shi
 ## Setup Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/abdurrahmanshkh/ticketbookingchatbot.git
+   https://github.com/Gururaj-Gali/Major-Project.git
     ```
 2. **Install dependencies:**
     ```bash
